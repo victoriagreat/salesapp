@@ -1,0 +1,125 @@
+.first-section{
+    background-color: #f3f3f3;
+    height: 700px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+
+.title{
+    margin-top: 100px;
+    padding-left: 30px;
+}
+
+.sales{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.pricing{
+    width: 20%;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+.button{
+    border: 2px silver solid;
+    padding: 10px;
+    width: 120px;
+}
+
+.button:hover{
+    background-color: black;
+    color: #f3f3f3;
+}
+
+.next{
+    display: flex;
+    position: absolute;
+    left: 800px;
+    margin-top: 40px;
+}
+
+.select{
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+    margin-left: 80px;
+    width: 200px;
+    margin-top: 150px;
+}
+
+.navbar2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.bar{
+    padding-right: 20px;
+}
+
+.nav{
+    padding-left: 20px;
+}
+
+.products{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.prod1{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    width: 300px;
+    background-color: #f3f3f3;
+}
+
+.img{
+   padding-left: 230px;
+   padding-top: 10px;
+}
+
+.button1{
+    border: 2px silver solid;
+    padding: 10px;
+    width: 120px;
+    background-color: #f3f3f3;
+    cursor: pointer;
+}
+
+.button1:hover{
+    background-color: black;
+    color: #f3f3f3;
+}
+
+.info{
+    padding-left: 50px;
+}
+
+.writing{
+    display: flex;
+    margin-right: 90px;
+}
+
+.footer1{
+    height: 20px;
+}
